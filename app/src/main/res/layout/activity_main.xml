@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/linearLayoutRoot"
+    android:background="#40ffd919"
+    tools:context=".MainActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout1"
+        android:background="#77000000">
+        <EditText
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="@string/enter_a_new_company_here"
+            android:textColorHint="#000"
+            android:gravity="center"
+            android:id="@+id/editText"
+            android:layout_margin="20dp"
+            android:textColor="#000"
+            android:textSize="20sp"
+            android:textStyle="italic"
+            android:background="#40ffd919">
+            <requestFocus/>
+        </EditText>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/button"
+            android:text="@string/add"
+            android:textColor="#000"
+            android:layout_margin="20dp"
+            android:textStyle="bold"
+            android:background="#f2ffd103"/>
+    </LinearLayout>
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/listView"
+        android:background="#40ffd919"/>
+</LinearLayout>

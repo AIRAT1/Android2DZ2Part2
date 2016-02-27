@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android2DZ1</string>
+    <string name="add">Добавить</string>
+    <string name="enter_person_from">Введите сотрудника из</string>
+    <string name="is_selected">выбрана</string>
+    <string name="delete">Удалить</string>
+    <string name="are_you_really_want_to_delete_this">Вы точно хотите это удалить?</string>
+    <string name="no">Нет</string>
+    <string name="yes">Да</string>
+    <string name="here">здесь.</string>
+    <string name="enter_a_new_company_here">Введите здесь название компании</string>
+</resources>

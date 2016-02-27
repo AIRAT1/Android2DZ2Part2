@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android2DZ1</string>
+    <string name="add">Hinzufügen</string>
+    <string name="enter_person_from">Geben Sie fie Mitarbeiter von</string>
+    <string name="is_selected">ist ausgewählt</string>
+    <string name="delete">Entfernen</string>
+    <string name="are_you_really_want_to_delete_this">Sind Sie sicher, das zu löschen?</string>
+    <string name="no">Nein</string>
+    <string name="yes">Ja</string>
+    <string name="here">hier.</string>
+    <string name="enter_a_new_company_here">Geben Sie hier den Namen des neuen Unternehmens</string>
+</resources>

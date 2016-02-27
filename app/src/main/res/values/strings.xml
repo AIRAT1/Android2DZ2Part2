@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android2DZ2Part2</string>
+    <string name="add">Add</string>
+    <string name="enter_person_from">Enter person from</string>
+    <string name="is_selected">is selected</string>
+    <string name="delete">Delete</string>
+    <string name="are_you_really_want_to_delete_this">Are you really wont to delete this?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="here">here.</string>
+    <string name="enter_a_new_company_here">Enter a new company name here</string>
+</resources>
